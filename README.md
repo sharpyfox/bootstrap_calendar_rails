@@ -1,4 +1,3 @@
-bootstrap_calendar_rails
-========================
+= BootstrapCalendarRails
 
-bootstrap_calendar_rails allow you to build beautiful calendars with Twitter Bootstrap and Rails
+This project rocks and uses MIT-LICENSE.
